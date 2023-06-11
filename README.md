@@ -1,3 +1,12 @@
-# Modify this portfolio
+# Jennifer Sung portfolio Page
 
-Make it your own! 
+Deploy and Extend Your Portfolio
+
+Estimate of time needed to complete: 4
+
+Start time: 8pm
+
+Finish time: 10pm
+
+Actual time needed to complete: 2 hours
+
