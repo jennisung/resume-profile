@@ -59,15 +59,15 @@ class Header extends Component {
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="##bcd7d7"
-              onColor="#bcd7d7"
+              offColor="#baaa80"
+              onColor="#353535"
               className="react-switch mx-auto"
               width={90}
               height={40}
               uncheckedIcon={
                 <span
                   className="iconify"
-                  data-icon="bi:lightbulb-off-fill"
+                  data-icon="twemoji:owl"
                   data-inline="false"
                   style={{
                     display: "block",
@@ -75,14 +75,14 @@ class Header extends Component {
                     fontSize: 25,
                     textAlign: "end",
                     marginLeft: "20px",
-                    color: "black",
+                    color: "#353239",
                   }}
                 ></span>
               }
               checkedIcon={
                 <span
                   className="iconify"
-                  data-icon="emojione:light-bulb"
+                  data-icon="noto-v1:sun-with-face"
                   data-inline="false"
                   style={{
                     display: "block",
