@@ -27,6 +27,7 @@ class Footer extends Component {
                     window.$secondaryLanguageIconId
                   )
                 }
+                
                 style={{ display: "inline" }}
               >
                 <span
