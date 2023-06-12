@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 20px;
+	color: #FBF8BE;
 }
 
 .title-styles {
@@ -25,8 +27,9 @@ html {
 }
 
 .header-icon {
-	height: 150px;
-	width: 150px;
+	height: 200px;
+	width: 200px;
+	color: #FBF8BE; //Computer icon
 }
 
 header {
@@ -39,7 +42,7 @@ header {
 	text-align: center;
 	overflow: hidden;
 	background-color: 
-	#cbd4d4;
+	#234E70;;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -93,21 +96,22 @@ header .nav {
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 500%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #FBF8BE; //jennifer sung
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
+
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #FBF8BE;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #FBF8BE;
 	height: 25px;
 }
 

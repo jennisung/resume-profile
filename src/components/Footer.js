@@ -17,9 +17,9 @@ class Footer extends Component {
     return (
       <footer>
         <div className="container">
-          <div className="row">
+        <div className="row d-flex flex-column mt-3 pb-0">
             <div className="col social-links">{networks}</div>
-            <div className="col">
+            <div className="col d-none">
               <div 
                 onClick={() =>
                   this.props.applyPickedLanguage(
