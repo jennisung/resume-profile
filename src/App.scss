@@ -17,8 +17,6 @@ html {
 
 .title-container {
 	height: 50px;
-	font-size: 15px;
-	color: #FBF8BE;
 }
 
 .title-styles {
@@ -27,9 +25,8 @@ html {
 }
 
 .header-icon {
-	height: 200px;
-	width: 200px;
-	color: #FBF8BE; //Computer icon
+	height: 150px;
+	width: 150px;
 }
 
 header {
@@ -42,7 +39,7 @@ header {
 	text-align: center;
 	overflow: hidden;
 	background-color: 
-	#234E70;
+	#cbd4d4;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -55,7 +52,6 @@ header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: active;
 }
 
 .github-corner:hover .octo-arm {
@@ -77,7 +73,7 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #234E70;
+	background-color: #696969;
 	color: white;
 }
 
@@ -97,21 +93,21 @@ header .nav {
 }
 
 header h1 {
-	font-size: 500%;
+	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #FBF8BE; //jennifer sung
+	color: #353239;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #FBF8BE;
+	border: 5px solid #D7CAAA;
 }
 
 .slider-tab {
-	background-color: #FBF8BE;
+	background-color: #D7CAAA;
 	height: 25px;
 }
 
@@ -137,7 +133,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #FBF8BE;
+	color: black;
 	text-align: center;
 }
 
@@ -246,7 +242,6 @@ header h1 {
 	font-size: 300%;
 	margin-top: 25%;
 	text-align: center;
-	color: #FBF8BE;
 }
 
 .main-badge {
@@ -447,4 +442,3 @@ footer a:focus {
 	margin-top: 10px;
 	font-size: 22px;
 }
-
