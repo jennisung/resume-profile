@@ -4,6 +4,8 @@ import javascriptIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
 import javaIcon from "@iconify/icons-logos/java";
 
+
+
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
